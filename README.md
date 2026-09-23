@@ -12,7 +12,7 @@ Medical measurements, language, images, retrieved evidence, dialogue history ...
 
 ## A little about me
 
-I'm an **MSc Artificial Intelligence graduate from Queen Mary University of London** with a background spanning **machine learning, data science, and cybersecurity**.
+I'm an **MSc Artificial Intelligence graduate from Queen Mary University of London** with a professional background spanning **data science, business analytics, and cybersecurity**.
 
 The projects I enjoy most sit somewhere between research and engineering: there is a real problem, several possible modelling choices, and enough uncertainty that the interesting part is not just training a model but understanding **why it works, when it fails, and what information it relies on**.
 
