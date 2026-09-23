@@ -4,7 +4,7 @@
 
 ### I build AI systems that work with messy, real-world information.
 
-Medical measurements, language, images, retrieved evidence, dialogue history — I like figuring out how to turn them into models that make useful decisions.
+Medical measurements, language, images, retrieved evidence, dialogue history ... I like figuring out how to turn them into models that make useful decisions.
 
 </div>
 
