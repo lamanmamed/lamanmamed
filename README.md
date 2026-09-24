@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o72F7i4RYbqUBOEQ8/giphy.gif" width="100%" height="110" alt="Green trees moving gently in the wind" />
+  <img src="https://media.giphy.com/media/fNFfDeyLA20x4c0DmR/giphy.gif" width="100%" height="95" alt="Abstract green network animation" />
 </p>
 
 <div align="center">
 
-# Hi, I'm Laman 🌿
+# Hi, I'm Laman
 
-### I build AI systems that work with messy, real-world information.
+### I build AI systems for messy, real-world information.
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=3600&pause=1200&color=6F9E72&center=true&vCenter=true&width=650&lines=multimodal+AI+%C2%B7+NLP+%C2%B7+retrieval;agents+%C2%B7+uncertainty+%C2%B7+reasoning;research+ideas+%E2%86%92+working+systems" alt="Typing introduction" />
 
@@ -14,11 +14,11 @@
 
 ---
 
-## A little about me
+## About me
 
-I'm an **MSc Artificial Intelligence graduate from Queen Mary University of London** with a background spanning **data science, business analytics, and cybersecurity**.
+I'm an **MSc Artificial Intelligence graduate from Queen Mary University of London** with experience in **data science, business analytics, and cybersecurity**.
 
-I'm especially interested in multimodal AI, language, retrieval, agents, and what happens when a model has incomplete or conflicting information.
+I'm interested in multimodal AI, language, retrieval, agents, and how models behave when the information they receive is incomplete or conflicting.
 
 ---
 
@@ -30,9 +30,9 @@ I'm especially interested in multimodal AI, language, retrieval, agents, and wha
 
 ### 🧠 [MCI prognosis with multimodal AI](https://github.com/lamanmamed/adni-mci-prognosis)
 
-Predicting 36-month progression from Mild Cognitive Impairment using cognitive, biomarker, demographic, and imaging data.
+Predicts 36-month progression from Mild Cognitive Impairment using cognitive, biomarker, demographic, and imaging data.
 
-The model explicitly tracks **predictive uncertainty and evidence conflict**.
+The model also tracks **predictive uncertainty and evidence conflict**.
 
 **Best ROC AUC: 0.918**
 
@@ -41,7 +41,7 @@ The model explicitly tracks **predictive uncertainty and evidence conflict**.
 
 ### 👁️ [Multimodal VQA with LLaVA](https://github.com/lamanmamed/multimodal-vqa-with-llava)
 
-A custom vision-language model for answering multiple-choice questions about images.
+A vision-language model for answering multiple-choice questions about images.
 
 I connected **LongCLIP** image features to **Qwen3** with a learned projector and adapted the language model with **LoRA**.
 
@@ -55,7 +55,7 @@ I connected **LongCLIP** image features to **Qwen3** with a learned projector an
 
 ### 🔬 [SciFact claim verification](https://github.com/lamanmamed/scifact-claim-verification)
 
-A pipeline that checks scientific claims against research abstracts using hybrid retrieval, reranking, evidence extraction, and LLM verdict generation.
+Checks scientific claims against research abstracts using hybrid retrieval, reranking, evidence extraction, and LLM-based verdict generation.
 
 **Hybrid retrieval Recall@20: 0.9279**
 
@@ -64,7 +64,7 @@ A pipeline that checks scientific claims against research abstracts using hybrid
 
 ### 💬 [Text dialogue agents](https://github.com/lamanmamed/text-dialogue-agents)
 
-Conversational AI experiments covering dialogue-act recognition, response generation, RAG, tool use, and LLM fine-tuning.
+Experiments with dialogue-act recognition, response generation, RAG, tool use, and LLM fine-tuning.
 
 Includes a restaurant agent that performs structured bookings and orders instead of inventing backend results.
 
@@ -80,11 +80,39 @@ Includes a restaurant agent that performs structured bookings and orders instead
 
 ---
 
-## What I work with
+## What I use
 
-`Python` · `PyTorch` · `scikit-learn` · `SQL` · `Hugging Face`  
-`Transformers` · `RAG` · `LoRA` · `BM25` · `Whisper`  
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Languages**
+
+`Python`  
+`SQL`
+
+</td>
+<td width="34%" valign="top">
+
+**ML & language**
+
+`PyTorch`  
+`scikit-learn`  
+`Transformers`  
+`Hugging Face`  
+`Whisper`
+
+</td>
+<td width="33%" valign="top">
+
+**Methods & tools**
+
+`RAG` · `BM25` · `LoRA`  
 `Git` · `Linux` · `LaTeX`
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>More things I've built</b></summary>
