@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi, I'm Laman
+# Hi, I'm Laman 👋
 
 </div>
 
