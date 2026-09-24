@@ -84,9 +84,10 @@ The analysis combines coverage gaps, population density, local food retail, and 
 
 <div align="center">
 
-### Languages & Data
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,postgres" height="38" alt="Python and SQL" />
+<img src="https://skillicons.dev/icons?i=python,java,c" height="38" alt="Python, Java and C" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" height="38" alt="SQL" />
 
 <br><br>
 
