@@ -6,9 +6,7 @@
 
 # Hi, I'm Laman
 
-### I build AI systems for messy, real-world information.
-
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=3600&pause=1200&color=6F9E72&center=true&vCenter=true&width=650&lines=multimodal+AI+%C2%B7+NLP+%C2%B7+retrieval;agents+%C2%B7+uncertainty+%C2%B7+reasoning;research+ideas+%E2%86%92+working+systems" alt="Typing introduction" />
+### I build machine learning systems and try to understand why they work, when they fail, and what they rely on.
 
 </div>
 
@@ -18,7 +16,7 @@
 
 I'm an **MSc Artificial Intelligence graduate from Queen Mary University of London** with experience in **data science, business analytics, and cybersecurity**.
 
-I'm interested in multimodal AI, language, retrieval, agents, and how models behave when the information they receive is incomplete or conflicting.
+I'm interested in multimodal AI, language, retrieval, uncertainty, and applied data problems.
 
 ---
 
@@ -62,11 +60,13 @@ Checks scientific claims against research abstracts using hybrid retrieval, rera
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Text dialogue agents](https://github.com/lamanmamed/text-dialogue-agents)
+### 🛒 [Bravo supermarket expansion analysis](https://github.com/lamanmamed/bravo-expansion-analysis)
 
-Experiments with dialogue-act recognition, response generation, RAG, tool use, and LLM fine-tuning.
+Maps Bravo's Baku store network and screens areas that may be worth investigating for expansion.
 
-Includes a restaurant agent that performs structured bookings and orders instead of inventing backend results.
+The analysis combines coverage gaps, population density, local food retail, and public transport.
+
+**District-held-out ROC AUC: 0.899**
 
 </td>
 </tr>
@@ -80,55 +80,33 @@ Includes a restaurant agent that performs structured bookings and orders instead
 
 ---
 
-## What I use
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center">
 
-**Languages**
+### Languages & Data
 
-`Python`  
-`SQL`
+<img src="https://skillicons.dev/icons?i=python,postgres" height="38" alt="Python and SQL" />
 
-</td>
-<td width="34%" valign="top">
+<br><br>
 
-**ML & language**
+### AI / Data / ML
 
-`PyTorch`  
-`scikit-learn`  
-`Transformers`  
-`Hugging Face`  
-`Whisper`
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28" />
+<img src="https://img.shields.io/badge/Transformers-20232A?style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
 
-</td>
-<td width="33%" valign="top">
+<br><br>
 
-**Methods & tools**
+### Tools
 
-`RAG` · `BM25` · `LoRA`  
-`Git` · `Linux` · `LaTeX`
+<img src="https://skillicons.dev/icons?i=git,linux" height="38" alt="Git and Linux" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="28" />
 
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More things I've built</b></summary>
-
-<br>
-
-- 🎮 [Reinforcement learning on FrozenLake & MiniGrid](https://github.com/lamanmamed/reinforcement-learning-frozenlake-minigrid)
-- 🧠 [NLP from LSTMs to Transformers](https://github.com/lamanmamed/nlp-from-lstm-to-transformers)
-- 🗣️ [Speech & visual dialogue agents](https://github.com/lamanmamed/speech-and-visual-dialogue-agents)
-- 🧩 [Neuro-symbolic planning](https://github.com/lamanmamed/neuro-symbolic-planning)
-- 🔍 [Character dialogue retrieval](https://github.com/lamanmamed/character-dialogue-retrieval)
-- 💭 [Tweet sentiment classification](https://github.com/lamanmamed/tweet-sentiment-classification)
-- 🕸️ [Graph search & heuristics](https://github.com/lamanmamed/graph-search-and-heuristics)
-- 📐 [Machine learning foundations](https://github.com/lamanmamed/machine-learning-foundations)
-
-</details>
+</div>
 
 ---
 
