@@ -1,81 +1,51 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/cWFjJ68ycrGsuUDV4J/giphy.gif" width="100%" alt="Green tree canopy moving in the wind" />
+  <img src="https://media.giphy.com/media/3o72F7i4RYbqUBOEQ8/giphy.gif" width="100%" height="110" alt="Green trees moving gently in the wind" />
 </p>
 
-<!-- Header motion: GIPHY / ranga_arg — https://giphy.com/gifs/nature-trees-ranga-cWFjJ68ycrGsuUDV4J -->
-
 <div align="center">
 
-# hi, i'm Laman 🌿
+# Hi, I'm Laman 🌿
 
-**I like AI systems that can work with messy information — and admit when they're unsure.**
+### I build AI systems that work with messy, real-world information.
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2500&pause=850&color=6F9E72&center=true&vCenter=true&width=720&lines=multimodal+AI+%C2%B7+NLP+%C2%B7+retrieval;agents+%C2%B7+uncertainty+%C2%B7+reasoning;research+ideas+%E2%86%92+working+systems" alt="Typing introduction" />
-
-<br>
-
-🎓 MSc Artificial Intelligence · Queen Mary University of London  
-📍 Baku ↔ London  
-📖 usually reading either a paper or a novel
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=15&duration=3600&pause=1200&color=6F9E72&center=true&vCenter=true&width=650&lines=multimodal+AI+%C2%B7+NLP+%C2%B7+retrieval;agents+%C2%B7+uncertainty+%C2%B7+reasoning;research+ideas+%E2%86%92+working+systems" alt="Typing introduction" />
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td width="33%" align="center">
+## A little about me
 
-**I build**
+I'm an **MSc Artificial Intelligence graduate from Queen Mary University of London** with a background spanning **data science, business analytics, and cybersecurity**.
 
-multimodal models  
-retrieval systems  
-dialogue agents
-
-</td>
-<td width="33%" align="center">
-
-**I care about**
-
-uncertainty  
-evidence  
-evaluation
-
-</td>
-<td width="33%" align="center">
-
-**away from code**
-
-fiction  
-film  
-songwriting
-
-</td>
-</tr>
-</table>
+I'm especially interested in multimodal AI, language, retrieval, agents, and what happens when a model has incomplete or conflicting information.
 
 ---
 
-## 🌱 selected work
+## Projects I'd show you first
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Predicting Alzheimer's progression](https://github.com/lamanmamed/adni-mci-prognosis)
+### 🧠 [MCI prognosis with multimodal AI](https://github.com/lamanmamed/adni-mci-prognosis)
 
-Multimodal prognosis from cognitive, biomarker, demographic and imaging data — with uncertainty and evidence conflict built into the system.
+Predicting 36-month progression from Mild Cognitive Impairment using cognitive, biomarker, demographic, and imaging data.
 
-**ROC AUC · 0.918**
+The model explicitly tracks **predictive uncertainty and evidence conflict**.
+
+**Best ROC AUC: 0.918**
 
 </td>
 <td width="50%" valign="top">
 
-### 👁️ [Teaching an LLM to see](https://github.com/lamanmamed/multimodal-vqa-with-llava)
+### 👁️ [Multimodal VQA with LLaVA](https://github.com/lamanmamed/multimodal-vqa-with-llava)
 
-Connected LongCLIP visual features to Qwen3 and adapted the model for visual question answering with LoRA.
+A custom vision-language model for answering multiple-choice questions about images.
 
-**Accuracy · 69.09%**
+I connected **LongCLIP** image features to **Qwen3** with a learned projector and adapted the language model with **LoRA**.
+
+**Validation accuracy: 69.09%**
 
 </td>
 </tr>
@@ -83,20 +53,20 @@ Connected LongCLIP visual features to Qwen3 and adapted the model for visual que
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [Can this scientific claim be trusted?](https://github.com/lamanmamed/scifact-claim-verification)
+### 🔬 [SciFact claim verification](https://github.com/lamanmamed/scifact-claim-verification)
 
-Hybrid retrieval, reranking and evidence extraction before asking an LLM to reason over scientific literature.
+A pipeline that checks scientific claims against research abstracts using hybrid retrieval, reranking, evidence extraction, and LLM verdict generation.
 
-**Recall@20 · 0.928**
+**Hybrid retrieval Recall@20: 0.9279**
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [Agents that actually do things](https://github.com/lamanmamed/text-dialogue-agents)
+### 💬 [Text dialogue agents](https://github.com/lamanmamed/text-dialogue-agents)
 
-Dialogue systems with RAG, tool use, response generation and structured actions instead of made-up backend results.
+Conversational AI experiments covering dialogue-act recognition, response generation, RAG, tool use, and LLM fine-tuning.
 
-**NLP · RAG · agents**
+Includes a restaurant agent that performs structured bookings and orders instead of inventing backend results.
 
 </td>
 </tr>
@@ -104,43 +74,20 @@ Dialogue systems with RAG, tool use, response generation and structured actions 
 
 <div align="center">
 
-[**wander through the rest →**](https://github.com/lamanmamed?tab=repositories)
+[**Explore my repositories →**](https://github.com/lamanmamed?tab=repositories)
 
 </div>
 
 ---
 
-## 🍃 tools I reach for
+## What I work with
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-315B3A?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-3E6B45?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-547A58?style=flat-square&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-315B3A?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-3E6B45?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-547A58?style=flat-square&logo=linux&logoColor=white" />
-
-<br><br>
-
-`Transformers` · `RAG` · `LoRA` · `multimodal learning` · `reinforcement learning`
-
-</div>
-
----
-
-## 🌿 a small contribution garden
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lamanmamed&bg_color=00000000&color=6F9E72&line=4F7942&point=93B58F&area=true&hide_border=true&custom_title=contribution%20garden" width="96%" alt="Laman's GitHub contribution activity graph" />
-
-</div>
-
----
+`Python` · `PyTorch` · `scikit-learn` · `SQL` · `Hugging Face`  
+`Transformers` · `RAG` · `LoRA` · `BM25` · `Whisper`  
+`Git` · `Linux` · `LaTeX`
 
 <details>
-<summary><b>more things I've built</b></summary>
+<summary><b>More things I've built</b></summary>
 
 <br>
 
@@ -155,16 +102,18 @@ Dialogue systems with RAG, tool use, response generation and structured actions 
 
 </details>
 
-<br>
+---
+
+## Outside the model
+
+I also like **songwriting, fiction, film, education, and the way language carries emotion**.
+
+So yes, there is a reasonable chance I'll spend the afternoon debugging a transformer and the evening thinking about why one line in a novel works so well.
+
+---
 
 <div align="center">
 
-### *How do you build an AI system you can trust when the information isn't perfect?*
-
-<sub>that question keeps showing up in nearly everything I build.</sub>
-
-<br><br>
-
-🌱
+**Thanks for stopping by ✨**
 
 </div>
