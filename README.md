@@ -6,7 +6,7 @@
 
 # Hi, I'm Laman
 
-### I build machine learning systems and try to understand why they work, when they fail, and what they rely on.
+### I build AI systems and try to understand why they work, when they fail, and what they rely on.
 
 </div>
 
