@@ -6,8 +6,6 @@
 
 # Hi, I'm Laman
 
-### I build AI systems and try to understand why they work, when they fail, and what they rely on.
-
 </div>
 
 ---
