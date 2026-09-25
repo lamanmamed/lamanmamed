@@ -14,7 +14,7 @@
 
 I'm an **MSc Artificial Intelligence graduate from Queen Mary University of London** with experience in **data science, business analytics, and cybersecurity**.
 
-I'm interested in multimodal AI, language, retrieval, uncertainty, and applied data problems.
+I'm interested in multimodal AI, language, retrieval systems, uncertainty of AI predictions, and applied data problems.
 
 ---
 
